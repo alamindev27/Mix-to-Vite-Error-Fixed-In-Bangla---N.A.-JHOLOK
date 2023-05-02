@@ -1,0 +1,12 @@
+All command
+-----------
+
+composer require laravel/ui
+
+php artisan ui bootstrap --auth
+
+npm install --save-dev vite laravel-vite-plugin
+
+npm run build
+
+php artisan ser
